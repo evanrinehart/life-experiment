@@ -1,5 +1,5 @@
 {-# LANGUAGE ScopedTypeVariables #-}
-module CoLife where
+module LifeIO where
 
 import Prelude hiding (read)
 import System.Random

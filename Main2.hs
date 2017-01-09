@@ -4,7 +4,7 @@ import Graphics.Gloss
 import Graphics.Gloss.Interface.IO.Simulate
 import qualified Data.Vector as V
 import Data.Monoid
-import CoLife
+import LifeIO
 
 lifeW = 100
 lifeH = 100
